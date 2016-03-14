@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="countdownApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Events</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: "Open Sans", Verdana, sans-serif;
+        }
+
+        #content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        html, body, #content {
+            height: 100%;
+        }
+
+        td, th {
+            padding: .7em;
+        }
+        tr:hover {
+            background-color: #eee;
+        }
+
+        .name {
+            text-align: left;
+            font-weight: bold;
+        }
+
+        .time {
+            text-align: right;
+            width: 30em;
+        }
+    </style>
+
+    <script>
+        var countdownApp = angular.module("countdownApp", []);
+
+        countdownApp.controller("CountdownCtrl", function ($scope, $http) {
+            $scope.loading = true;
+            $scope.events = [];
+            var updateEventTimeouts = function () {
+                var now = new Date();
+                for (var i = 0; i < $scope.events.length; i++) {
+                    var event = $scope.events[i];
+                    event.remaining = {};
+                    var difference = (event.time.getTime() - now.getTime()) / 1000;
+                    event.remaining.complete = difference <= 0;
+                    // ~~ is int cast
+                    event.remaining.seconds = ~~difference % 60;
+                    event.remaining.minutes = ~~(difference / 60) % 60;
+                    event.remaining.hours = ~~(difference / (60 * 60)) % 24;
+                    event.remaining.days = ~~(difference / (60 * 60 * 24));
+                }
+            };
+            setInterval(function () {
+                $scope.$apply(updateEventTimeouts);
+            }, 1000);
+            $http({
+                method: "GET",
+                url: "events.json"
+            }).then(function (response) {
+                $scope.loading = false;
+                $scope.events = response.data;
+                for (var i = 0; i < $scope.events.length; i++) {
+                    var event = $scope.events[i];
+                    event.time = new Date(event.time);
+                }
+                updateEventTimeouts();
+            });
+        });
+    </script>
+</head>
+<body ng-controller="CountdownCtrl">
+<div id="content">
+    <span ng-hide="!loading">Loading...</span>
+    <table ng-hide="loading" cellspacing="0">
+        <tbody>
+        <tr ng-repeat="event in events">
+            <td class="name">{{event.name}}</td>
+            <td class="time">
+                <span ng-hide="!event.remaining.complete">Vorbei!</span>
+            <span ng-hide="event.remaining.complete">
+                <span ng-hide="!event.remaining.days">
+                    {{event.remaining.days}} {{event.remaining.days > 1 ? "Tage" : "Tag"}}
+                </span>
+                <span ng-hide="!event.remaining.hours">
+                    {{event.remaining.hours}} {{event.remaining.hours > 1 ? "Stunden" : "Stunde"}}
+                </span>
+                <span ng-hide="!event.remaining.minutes">
+                    {{event.remaining.minutes}} {{event.remaining.minutes > 1 ? "Minuten" : "Minute"}}
+                </span>
+                <span ng-hide="!event.remaining.seconds">
+                    {{event.remaining.seconds}} {{event.remaining.seconds > 1 ? "Sekunden" : "Sekunde"}}
+                </span>
+            </span>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
