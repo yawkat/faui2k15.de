@@ -1,18 +1,10 @@
 [
   {
-    "name": "GTI Klausur",
-    "time": "2016-03-23T08:00:00+01:00"
+    "name": "IngMathC1 Einsicht",
+    "time": "2016-04-13T15:00:00+02:00"
   },
   {
-    "name": "AuD Klausur",
-    "time": "2016-03-30T07:45:00+02:00"
-  },
-  {
-    "name": "IngMathC1 Klausur",
-    "time": "2016-02-18T15:30:00+01:00"
-  },
-  {
-    "name": "KonzMod Klausur",
-    "time": "2016-02-10T15:30:00+01:00"
+    "name": "KonzMod Einsicht",
+    "time": "2016-04-11"
   }
 ]
