@@ -1,13 +1,5 @@
 [
   {
-    "name": "Scheinklausur 2 GdS",
-    "time": "2016-07-13T10:15:00+02:00"
-  },
-  {
-    "name": "Testat IngMathC2",
-    "time": "2016-07-11T12:15:00+02:00"
-  },
-  {
     "name": "Klausur PFP",
     "time": "2016-07-26"
   },
@@ -22,13 +14,5 @@
   {
     "name": "Klausur GdS",
     "time": "2016-10-13"
-  },
-  {
-    "name": "Rückmeldung (Ende)",
-    "time": "2016-07-08"
-  },
-  {
-    "name": "Semesterferien",
-    "time": "2016-07-16"
   }
 ]
