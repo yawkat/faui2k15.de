@@ -1,15 +1,11 @@
 [
   {
-    "name": "Klausur GRa",
-    "time": "2016-09-28T11:00:00+02:00"
-  },
-  {
     "name": "Klausur IngMathC2",
-    "time": "2016-10-05"
+    "time": "2016-10-05T11:00:00+02:00"
   },
   {
     "name": "Fragestunde IngMathC2",
-    "time": "2016-09-30"
+    "time": "2016-09-30T10:00:00+02:00"
   },
   {
     "name": "Anmeldebeginn Hochschulsport",
@@ -17,6 +13,6 @@
   },
   {
     "name": "Klausur GdS",
-    "time": "2016-10-13"
+    "time": "2016-10-13T08:00:00+02:00"
   }
 ]
