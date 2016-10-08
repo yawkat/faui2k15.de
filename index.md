@@ -18,4 +18,4 @@ If you wish to add content to this site, feel free to [make a pull request](http
     Hilfsmittel: nichtprogrammierbarer TR, beidseitig handbeschriebenes DIN-A4-Blatt (siehe 
     [Vorlesungsfolien](https://www.studon.fau.de/file1527542_download.html))
   + [StudOn](http://www.studon.uni-erlangen.de/crs129571.html)
-  + "Grundlagen der Elektrotechnik und Elektronik 1" [Amazon](http://www.amazon.de/Grundlagen-Elektrotechnik-Elektronik-Gleichstromnetzwerke-Springer-Lehrbuch/dp/3642539475/ref=sr_1_1?ie=UTF8&qid=1460365106&sr=8-1&keywords=Grundlagen+der+Elektrotechnik+und+Elektronik+1+%E2%80%93+Gleichstromnetzwerke+und+ihre+Anwendungen)
+  + "Grundlagen der Elektrotechnik und Elektronik 1" [Amazon](https://www.amazon.de/dp/3642539475)
