@@ -13,9 +13,3 @@ If you wish to add content to this site, feel free to [make a pull request](http
 - [SP1](https://www4.informatik.uni-erlangen.de/DE/Lehre/SS16/V_SP1/)
   + [Folien](https://www4.cs.fau.de/Lehre/SS16/V_SP1/Vorlesung/folien.shtml)
   + [Übungsaufgaben](https://www4.cs.fau.de/Lehre/SS16/V_SP1/Uebung/aufgaben.shtml)
-- [GdS](http://www.like.eei.uni-erlangen.de/lehre/lehrveranstalt/somsem.shtml)
-  + Klausur **13. 10. 2016 8:00** [Tentoria](https://www.openstreetmap.org/way/74399127#map=18/49.57343/11.02872) <br>
-    Hilfsmittel: nichtprogrammierbarer TR, beidseitig handbeschriebenes DIN-A4-Blatt (siehe 
-    [Vorlesungsfolien](https://www.studon.fau.de/file1527542_download.html))
-  + [StudOn](http://www.studon.uni-erlangen.de/crs129571.html)
-  + "Grundlagen der Elektrotechnik und Elektronik 1" [Amazon](https://www.amazon.de/dp/3642539475)
