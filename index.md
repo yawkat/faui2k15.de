@@ -1,4 +1,4 @@
-Unofficial site for FAU CS students that started in 2015.
+Unofficial site for FAU CS students who started in 2015.
 
 If you wish to add content to this site, feel free to [make a pull request](https://github.com/yawkat/faui2k15.de).
 
