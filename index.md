@@ -23,6 +23,6 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
   + Die Übungen beginnen am Montag 24. 10. (zweite Woche)
 - IngMathC3
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
-- [SP1](https://www4.informatik.uni-erlangen.de/DE/Lehre/WS16/V_SP2/)
+- [SP2](https://www4.informatik.uni-erlangen.de/DE/Lehre/WS16/V_SP2/)
   + [Folien](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Vorlesung/folien.shtml)
   + [Übungsaufgaben](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Uebung/aufgaben.shtml)
