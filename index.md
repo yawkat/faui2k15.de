@@ -10,6 +10,19 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
-- [SP1](https://www4.informatik.uni-erlangen.de/DE/Lehre/SS16/V_SP1/)
-  + [Folien](https://www4.cs.fau.de/Lehre/SS16/V_SP1/Vorlesung/folien.shtml)
-  + [Übungsaufgaben](https://www4.cs.fau.de/Lehre/SS16/V_SP1/Uebung/aufgaben.shtml)
+Jeden Mittwoch (16-18 Uhr) gibt es eine Orientierungsvorlesung zu WP- und Nebenfächern. Das Programm ist 
+[hier](http://www.informatik.studium.uni-erlangen.de/studierende/wpf-orientierung.pdf) einzusehen.
+
+Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
+
+---
+
+- [BFS](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/)
+  + Die Übungen beginnen am Montag 24. 10. (zweite Woche)
+- [GLoIn](https://www8.cs.fau.de/ws16:gloin)
+  + Die Übungen beginnen am Montag 24. 10. (zweite Woche)
+- IngMathC3
+- [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
+- [SP1](https://www4.informatik.uni-erlangen.de/DE/Lehre/WS16/V_SP2/)
+  + [Folien](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Vorlesung/folien.shtml)
+  + [Übungsaufgaben](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Uebung/aufgaben.shtml)
