@@ -21,6 +21,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
   + Die Übungen beginnen am Montag 24. 10. (zweite Woche)
 - [GLoIn](https://www8.cs.fau.de/ws16:gloin)
   + Die Übungen beginnen am Montag 24. 10. (zweite Woche)
+  + [Übungsanmeldung](https://www.campus.uni-erlangen.de/vv-web/student/info/43770) ab Dienstag 19:00 (laut mein campus)
 - IngMathC3
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
 - [SP2](https://www4.informatik.uni-erlangen.de/DE/Lehre/WS16/V_SP2/)
