@@ -27,6 +27,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 - IngMathC3
   + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1650357&cmdClass=ilobjcoursegui&cmdNode=qs:gr&baseClass=ilRepositoryGUI)
   + Übungsanmeldung ab Donnerstag 18:30 in StudOn
+  + Hausaufgabenabgabe **in der Übungsgruppe**
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
 - [SP2](https://www4.informatik.uni-erlangen.de/DE/Lehre/WS16/V_SP2/)
   + [Folien](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Vorlesung/folien.shtml)
