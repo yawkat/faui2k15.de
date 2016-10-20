@@ -20,7 +20,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 - [BFS](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/)
   + Übungen beginnen am Montag 24. 10. (zweite Woche)
   + Keine Anmeldung zu bestimmten Übungsgruppen, einfach hingehen
-  + Übungsaufgaben schriftlich am Briefkasten zum blauen Hochhaus, **Abgabegruppen von 4 Personen** nicht nötigerweise am gleichen Übungstermin
+  + Übungsaufgaben schriftlich am Briefkasten zum blauen Hochhaus, **Abgabegruppen von genau 4 Personen** nicht nötigerweise am gleichen Übungstermin
   + **Schein** mit 50% der Punkte
   + Bis zu 3 Bonuspunkte für die Klausur von Bonus-Übungsaufgaben
   + Anmeldung im [EST](http://est.informatik.uni-erlangen.de/index.html?lectureId=226) zur Hausaufgabeneinsicht
