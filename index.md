@@ -30,5 +30,5 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
   + [Folien](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Vorlesung/folien.shtml)
   + [Übungsaufgaben](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Uebung/aufgaben.shtml)
   + Vorlesungsbeginn Donnerstags 8:30
-  + Übungsanmeldung in Waffel ab 18:00 (erscheint bei Anmeldebeginn in Waffel)
+  + Übungsanmeldung [in Waffel](https://waffel.informatik.uni-erlangen.de/signup/?course=1201622) ab 18:00
   + Für die Miniklausur [auf Waffel anmelden](https://waffel.informatik.uni-erlangen.de/signup?course=295)
