@@ -21,7 +21,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
   + Die Übungen beginnen am Montag 24. 10. (zweite Woche)
 - [GLoIn](https://www8.cs.fau.de/ws16:gloin)
   + Die Übungen beginnen am Montag 24. 10. (zweite Woche)
-  + Übungsaufgaben geben Bonuspunkte (bis zu 15% der Klausurpunkte), *nicht* verpflichtend. **Abgabegruppen von mindestens 3 Personen**
+  + Übungsaufgaben geben Bonuspunkte (bis zu 15% der Klausurpunkte), *nicht* verpflichtend. Abgabegruppen von 2-3 Personen - variiert von Übung zu Übung.
   + [Vorlesungsaufzeichnung WS14/15](https://www.video.uni-erlangen.de/course/id/323.html)
   + [Logik für Informatiker](https://www.amazon.de/dp/3827410053)
 - IngMathC3
