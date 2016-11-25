@@ -36,7 +36,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
   + Hausaufgabenabgabe **in der Übungsgruppe**
   + Hausaufgabenpunkte: 50% Schein, 65% Klausur +1/3 Notenstufe, 80% +2/3 Notenstufe 
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
-  + Bonusklausur am **8. 12. 18:15 H7/H11** mit bis zu 0.7 Bonuspunkten. Anmeldung war via den Zetteln in der ersten VL wo man sich eintragen konnte.
+  + Bonusklausur am **8. 12. 18:15 H7/H11** mit bis zu 0.7 Bonuspunkten. Keine Anmeldung nötig.
 - [SP2](https://www4.informatik.uni-erlangen.de/DE/Lehre/WS16/V_SP2/)
   + [Folien](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Vorlesung/folien.shtml)
   + [Übungsaufgaben](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Uebung/aufgaben.shtml)
