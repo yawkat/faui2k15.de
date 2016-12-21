@@ -11,7 +11,8 @@ If you wish to add content to this site, feel free to [make a pull request](http
 ---
 
 Jeden Mittwoch (16-18 Uhr) gibt es eine Orientierungsvorlesung zu WP- und Nebenfächern. Das Programm ist 
-[hier](http://www.informatik.studium.uni-erlangen.de/studierende/wpf-orientierung.pdf) einzusehen.
+[hier](http://www.informatik.studium.uni-erlangen.de/studierende/wpf-orientierung.pdf) einzusehen. Folien gibt es
+ [hier](http://www.informatik.studium.uni-erlangen.de/studierende/nfaecher.shtml).
 
 Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 
