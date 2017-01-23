@@ -20,7 +20,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 
 - [BFS](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/)
   + **Klausur 12. 4.**
-    + Kofferklausur: Beliebige Materialien können in die Klausur mitgenommen werden.
+      + Kofferklausur: Beliebige Materialien können in die Klausur mitgenommen werden.
   + Übungsaufgaben schriftlich am Briefkasten zum blauen Hochhaus **Donnerstags 23:59**, **Abgabegruppen von genau 4 Personen** nicht nötigerweise am gleichen Übungstermin
   + **Schein** mit 50% der Punkte
   + Bis zu 3 Bonuspunkte für die Klausur von Bonus-Übungsaufgaben
