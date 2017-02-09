@@ -10,10 +10,6 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
-**Rückmeldung** 1.2. bis 8.2. ([Mail](https://s.yawk.at/emZ1.txt)).
-
----
-
 Jeden Mittwoch (16-18 Uhr) gibt es eine Orientierungsvorlesung zu WP- und Nebenfächern. Das Programm ist 
 [hier](http://www.informatik.studium.uni-erlangen.de/studierende/wpf-orientierung.pdf) einzusehen. Folien gibt es
  [hier](http://www.informatik.studium.uni-erlangen.de/studierende/nfaecher.shtml).
