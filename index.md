@@ -20,6 +20,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 
 - [BFS](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/)
   + **Klausur 12. 4.**
+      + Keine Hilfsmittel
   + Übungsaufgaben schriftlich am Briefkasten zum blauen Hochhaus **Donnerstags 23:59**, **Abgabegruppen von genau 4 Personen** nicht nötigerweise am gleichen Übungstermin
   + **Schein** mit 50% der Punkte
   + Bis zu 3 Bonuspunkte für die Klausur von Bonus-Übungsaufgaben
@@ -39,6 +40,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
   + Hausaufgabenpunkte: 50% Schein, 65% Klausur +1/3 Notenstufe, 80% +2/3 Notenstufe 
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
   + **Klausur 7. 4.**
+      + Keine Hilfsmittel
 - [SP2](https://www4.informatik.uni-erlangen.de/DE/Lehre/WS16/V_SP2/)
   + **Klausur 22. 2.**
       + **Fragestunde Fr. 17. 2. 12-14 Uhr H4**
