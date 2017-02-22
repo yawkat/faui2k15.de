@@ -19,7 +19,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 ---
 
 - [BFS](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/)
-  + **Klausur 12. 4.**
+  + **Klausur 31. 3.**
       + Keine Hilfsmittel
   + Übungsaufgaben schriftlich am Briefkasten zum blauen Hochhaus **Donnerstags 23:59**, **Abgabegruppen von genau 4 Personen** nicht nötigerweise am gleichen Übungstermin
   + **Schein** mit 50% der Punkte
