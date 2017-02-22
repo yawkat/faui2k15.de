@@ -41,11 +41,3 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
   + **Klausur 7. 4.**
       + Keine Hilfsmittel
-- [SP2](https://www4.informatik.uni-erlangen.de/DE/Lehre/WS16/V_SP2/)
-  + **Klausur 22. 2.**
-      + **Fragestunde Fr. 17. 2. 12-14 Uhr H4**
-      + Beidseitig handbeschriebenes DIN-A4-Blatt erlaubt
-  + [Folien](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Vorlesung/folien.shtml)
-  + [Übungsaufgaben](https://www4.cs.fau.de/Lehre/WS16/V_SP2/Uebung/aufgaben.shtml)
-  + Vorlesungsbeginn Donnerstags 8:30
-  + Übungsanmeldung [in Waffel](https://waffel.informatik.uni-erlangen.de/signup/?course=1201622) ab Donnerstag 18:00
