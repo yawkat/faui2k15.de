@@ -19,7 +19,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 ---
 
 - [BFS](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/)
-  + **Klausur 31. 3.**
+  + **Klausur 12. 4.**
       + Keine Hilfsmittel
   + Übungsaufgaben schriftlich am Briefkasten zum blauen Hochhaus **Donnerstags 23:59**, **Abgabegruppen von genau 4 Personen** nicht nötigerweise am gleichen Übungstermin
   + **Schein** mit 50% der Punkte
@@ -33,7 +33,7 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
   + [Vorlesungsaufzeichnung WS14/15](https://www.video.uni-erlangen.de/course/id/323.html)
   + [Logik für Informatiker](https://www.amazon.de/dp/3827410053)
 - IngMathC3
-  + **Klausur 12. 4.**
+  + **Klausur 13. 4.**
       + Kofferklausur: Beliebige Materialien können in die Klausur mitgenommen werden.
   + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1650357&cmdClass=ilobjcoursegui&cmdNode=qs:gr&baseClass=ilRepositoryGUI)
   + Hausaufgabenabgabe **in der Übungsgruppe**
