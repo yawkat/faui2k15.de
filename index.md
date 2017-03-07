@@ -18,6 +18,10 @@ Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
 
 ---
 
+Die [SP2-Einsicht](https://www4.cs.fau.de/Lehre/WS16/V_SP2/) findet am **Mi 8. 3. 10:00** sowie am **Mi 26. 4. 12:00** jeweils in [0.031-113](https://univis.uni-erlangen.de/prg?search=rooms&name=0.031-113) statt.
+
+---
+
 - [BFS](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/)
   + **Klausur 12. 4.**
       + Keine Hilfsmittel
