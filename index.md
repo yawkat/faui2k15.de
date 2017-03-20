@@ -8,17 +8,11 @@ If you wish to add content to this site, feel free to [make a pull request](http
 - [Webchat](http://webchat.ircnet.net/?channels=faui2k15)
 - [Steam](http://steamcommunity.com/groups/faui)
 
----
-
-Jeden Mittwoch (16-18 Uhr) gibt es eine Orientierungsvorlesung zu WP- und Nebenfächern. Das Programm ist 
-[hier](http://www.informatik.studium.uni-erlangen.de/studierende/wpf-orientierung.pdf) einzusehen. Folien gibt es
- [hier](http://www.informatik.studium.uni-erlangen.de/studierende/nfaecher.shtml).
-
-Euer Stundenplan sollte in etwa [so aussehen](https://s.yawk.at/U6xl).
+[Studienführer](http://www.informatik.fau.de/studium/Studienfuehrer_inf.pdf)
 
 ---
 
-Die [SP2-Einsicht](https://www4.cs.fau.de/Lehre/WS16/V_SP2/) findet am **Mi 8. 3. 10:00** sowie am **Mi 26. 4. 12:00** jeweils in [0.031-113](https://univis.uni-erlangen.de/prg?search=rooms&name=0.031-113) statt.
+Die [SP2-Einsicht](https://www4.cs.fau.de/Lehre/WS16/V_SP2/) findet am Mi 8. 3. 10:00 sowie am **Mi 26. 4. 12:00** jeweils in [0.031-113](https://univis.uni-erlangen.de/prg?search=rooms&name=0.031-113) (Aquarium) statt.
 
 ---
 
@@ -45,3 +39,9 @@ Die [SP2-Einsicht](https://www4.cs.fau.de/Lehre/WS16/V_SP2/) findet am **Mi 8. 3
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
   + **Klausur 7. 4.**
       + Keine Hilfsmittel
+
+---
+
+[Vorläufiger Stundenplan zu Pflichtvorlesungen im SS17](https://s.yawk.at/Mv11). 
+
+Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümmern. Seminare werden auf den jeweiligen Lehrstuhlseiten beworben - verlasst euch nicht nur auf UnivIS, dort sind nicht alle Seminare richtig eingetragen! Anmeldungen für Seminare haben häufig schon begonnen.
