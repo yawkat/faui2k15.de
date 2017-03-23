@@ -14,7 +14,9 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 Die [SP2-Einsicht](https://www4.cs.fau.de/Lehre/WS16/V_SP2/) findet am Mi 8. 3. 10:00 sowie am **Mi 26. 4. 12:00** jeweils in [0.031-113](https://univis.uni-erlangen.de/prg?search=rooms&name=0.031-113) (Aquarium) statt.
 
-SoSy-Miniklausur-Ergebnisse sind [jetzt verfügbar](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/index.html). Einsicht am **Mo 27. 3.**.
+SoSy-Miniklausur-Ergebnisse sind [jetzt verfügbar](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/index.html). Einsicht am ***27.03.2017** um **10:30** im Raum **00.151-113***.
+
+GLoIn Fragestunde wird (voraussichtlich) am ***28.03.2017 um 14:00*** stattfinden. Ort wird in Kürze auf der [Website zur Vorlesung](https://www8.cs.fau.de/ws16:gloin) bekannt gegeben.
 
 ---
 
@@ -29,6 +31,9 @@ SoSy-Miniklausur-Ergebnisse sind [jetzt verfügbar](http://www11.informatik.uni-
 - [GLoIn](https://www8.cs.fau.de/ws16:gloin)
   + **Klausur 4. 4.**
       + Kofferklausur: Beliebige Materialien können in die Klausur mitgenommen werden.
+      + Fragestunde (voraussichtlich) am ***28.03.2017 um 14:00***. Ort wird in Kürze auf der [Website zur Vorlesung](https://www8.cs.fau.de/ws16:gloin) bekannt gegeben.
+      Die Fragestunde soll die Möglichkeit bieten, während des Lernens aufgekommene konkrete Fragen zu stellen und beantwortet zu bekommen. Jedoch wird aus zeitlichen Gründen nicht noch einmal den Stoff ausführlich wiederholt oder Aufgaben komplett an der Tafel vorgerechnen.
+      Insbesondere wird darauf vorbereitet, Fragen zur [Probeklausur](https://www8.cs.fau.de/_media/ws16:gloin:probeklausurWS1617.pdf) zu beantworten.
   + Übungsaufgaben geben Bonuspunkte (bis zu 15% der Klausurpunkte), *nicht* verpflichtend. Abgabegruppen von 2-3 Personen - variiert von Übung zu Übung.
   + [Vorlesungsaufzeichnung WS14/15](https://www.video.uni-erlangen.de/course/id/323.html)
   + [Logik für Informatiker](https://www.amazon.de/dp/3827410053)
