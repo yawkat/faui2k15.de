@@ -27,7 +27,7 @@ SoSy-Miniklausur-Ergebnisse sind [jetzt verfügbar](http://www11.informatik.uni-
   + Anmeldung im [EST](http://est.informatik.uni-erlangen.de/index.html?lectureId=226) zur Hausaufgabeneinsicht
   + Einmal in der Übungsgruppe Hausaufgaben vorrechnen
 - [GLoIn](https://www8.cs.fau.de/ws16:gloin)
-  + **Klausur 4. 4.**
+  + **Klausur 4. 4. 13:00 Tentoria**
       + Kofferklausur: Beliebige Materialien können in die Klausur mitgenommen werden.
       + Fragestunde (voraussichtlich) am **28.03.2017 um 14:00** ([Mail](https://s.yawk.at/41G5.txt)).
       + [Probeklausur](https://www8.cs.fau.de/_media/ws16:gloin:probeklausurWS1617.pdf)
