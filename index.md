@@ -41,7 +41,7 @@ SoSy-Miniklausur-Ergebnisse sind [jetzt verfügbar](http://www11.informatik.uni-
   + Hausaufgabenabgabe **in der Übungsgruppe**
   + Hausaufgabenpunkte: 50% Schein, 65% Klausur +1/3 Notenstufe, 80% +2/3 Notenstufe 
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
-  + **Klausur 7. 4.**
+  + **Klausur 7. 4. 11:00**
       + Keine Hilfsmittel
 
 ---
