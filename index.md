@@ -32,12 +32,12 @@ SoSy-Miniklausur-Ergebnisse sind [jetzt verfügbar](http://www11.informatik.uni-
   + [Vorlesungsaufzeichnung WS14/15](https://www.video.uni-erlangen.de/course/id/323.html)
   + [Logik für Informatiker](https://www.amazon.de/dp/3827410053)
 - IngMathC3
-  + **Klausur 13. 4.**
+  + **Klausur 13. 4. 11:00 Tentoria**
       + Kofferklausur: Beliebige Materialien können in die Klausur mitgenommen werden.
   + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1650357&cmdClass=ilobjcoursegui&cmdNode=qs:gr&baseClass=ilRepositoryGUI)
   + Hausaufgabenpunkte: 50% Schein, 65% Klausur +1/3 Notenstufe, 80% +2/3 Notenstufe 
 - [SoSy](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/)
-  + **Klausur 7. 4. 11:00**
+  + **Klausur 7. 4. 11:00 Tentoria**
       + Keine Hilfsmittel
 
 ---
