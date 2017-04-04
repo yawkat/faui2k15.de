@@ -5,7 +5,6 @@ If you wish to add content to this site, feel free to [make a pull request](http
 ---
 
 - [IRC-Guide (besucht uns in IRCNet/#faui2k15 !)](https://fsi.cs.fau.de/dw/kontakt/irc)
-- [Webchat](http://webchat.ircnet.net/?channels=faui2k15)
 - [Steam](http://steamcommunity.com/groups/faui)
 
 [Studienführer](http://www.informatik.fau.de/studium/Studienfuehrer_inf.pdf)
