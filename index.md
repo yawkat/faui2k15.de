@@ -19,7 +19,7 @@ SoSy-Miniklausur-Ergebnisse sind [jetzt verfügbar](http://www11.informatik.uni-
 
 - [BFS](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/)
   + [Skript-Draft](https://www12.informatik.uni-erlangen.de/edu/BFS/WS1617/bfs1617.pdf)
-  + **Klausur 12. 4.**
+  + **Klausur 12. 4. 8:00 Tentoria**
       + Keine Hilfsmittel
   + Bis zu 3 Bonuspunkte für die Klausur von Bonus-Übungsaufgaben
 - [GLoIn](https://www8.cs.fau.de/ws16:gloin)
