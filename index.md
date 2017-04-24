@@ -26,3 +26,7 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + Theorieaufgaben: Abgabe in 2er-Gruppen, Briefkasten
     + Programmieraufgaben: Einzelabgabe über EST bis Dienstags 10:15
     + Klausur: 90 Minuten
+- [ThProg](https://www8.cs.fau.de/ss17:thprog)
+    + Übungsanmeldung im Waffel ab **18:00 Windhundverfahren!**
+    + Hausaufgaben geben Bonuspunkte (bis zu 15%). Abgabe in Gruppen von 2 bis 3 Personen (wie GLoIn).
+    + [Skript](https://www8.cs.fau.de/_media/ss17:thprog:skript.pdf)
