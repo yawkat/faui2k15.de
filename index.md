@@ -21,6 +21,7 @@ Die [SP2-Einsicht](https://www4.cs.fau.de/Lehre/WS16/V_SP2/) findet am Mi 8. 3. 
 Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümmern. Seminare werden auf den jeweiligen Lehrstuhlseiten beworben - verlasst euch nicht nur auf UnivIS, dort sind nicht alle Seminare richtig eingetragen! Anmeldungen für Seminare haben häufig schon begonnen.
 
 - [AlgoKS](https://www10.cs.fau.de/de/lehre/bySem/2017s/algoks)
+    + Vorlesungsbeginn 8:30
     + Schein: Je mindestens 50% der Übungspunkte in Programmier- und Theorieteil müssen erreicht werden
     + Anmeldung für Theorieübungen bis **Montag, 1. 5. 10:00** im EST (mit Passwort), Anmeldungen für Rechnerübungen nicht verbindlich
     + Theorieaufgaben: Abgabe in 2er-Gruppen, Briefkasten
