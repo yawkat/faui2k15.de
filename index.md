@@ -24,10 +24,12 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + Vorlesungsbeginn 8:30
     + Schein: Je mindestens 50% der Übungspunkte in Programmier- und Theorieteil müssen erreicht werden
     + Anmeldung für Theorieübungen bis **Montag, 1. 5. 10:00** im EST (mit Passwort), Anmeldungen für Rechnerübungen nicht verbindlich
+    + Übungen beginnen in der dritten Woche.
     + Theorieaufgaben: Abgabe in 2er-Gruppen, Briefkasten
     + Programmieraufgaben: Einzelabgabe über EST bis Dienstags 10:15
     + Klausur: 90 Minuten
 - [ThProg](https://www8.cs.fau.de/ss17:thprog)
     + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736) ab **18:00 Windhundverfahren!**
+    + Übungen beginnen in der zweiten Woche.
     + Hausaufgaben geben Bonuspunkte (bis zu 15%). Abgabe in Gruppen von 2 bis 3 Personen (wie GLoIn).
     + [Skript](https://www8.cs.fau.de/_media/ss17:thprog:skript.pdf)
