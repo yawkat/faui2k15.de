@@ -44,7 +44,7 @@ Vertiefungen:
 
   - Forensische Informatik
     + [StudOn](https://www.studon.fau.de/)
-    + Vorlesungen werden aufgezeichnet. (StudOn)
+    + Vorlesungen werden aufgezeichnet. (Zugriff über StudOn)
     + Folien finden sich im StudOn nach der Vorlesung
     + Skript im StudOn
 
