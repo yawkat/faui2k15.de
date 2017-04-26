@@ -43,7 +43,7 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
 Vertiefungen:
 
   - Forensische Informatik
-    + [StudOn](https://www.studon.fau.de/)
+    + [StudOn](https://www.studon.fau.de/) (StudOn-Kurs noch nicht sichtbar)
     + Vorlesungen werden aufgezeichnet. (Zugriff über StudOn)
     + Folien finden sich im StudOn nach der Vorlesung
     + Skript im StudOn
