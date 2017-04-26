@@ -42,7 +42,6 @@ Vertiefungen:
     + StudOn: 
       - [Vorlesung](https://www.studon.fau.de/studon/goto.php?target=crs_1852145)
       - [Übung](https://www.studon.fau.de/studon/goto.php?target=crs_1852145)
-
     + Vorlesungen werden aufgezeichnet. (Zugriff über StudOn)
     + Folien finden sich im StudOn nach der Vorlesung
     + Skript im StudOn
