@@ -12,10 +12,6 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
-Die [SP2-Einsicht](https://www4.cs.fau.de/Lehre/WS16/V_SP2/) findet am Mi 8. 3. 10:00 sowie am **Mi 26. 4. 12:00** jeweils in [0.031-113](https://univis.uni-erlangen.de/prg?search=rooms&name=0.031-113) (Aquarium) statt.
-
----
-
 [Vorläufiger Stundenplan zu Pflichtvorlesungen im SS17](https://s.yawk.at/Mv11). 
 
 Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümmern. Seminare werden auf den jeweiligen Lehrstuhlseiten beworben - verlasst euch nicht nur auf UnivIS, dort sind nicht alle Seminare richtig eingetragen! Anmeldungen für Seminare haben häufig schon begonnen.
@@ -46,6 +42,7 @@ Vertiefungen:
     + StudOn: 
       - [Vorlesung](https://www.studon.fau.de/studon/goto.php?target=crs_1852145)
       - [Übung](https://www.studon.fau.de/studon/goto.php?target=crs_1852145)
+
     + Vorlesungen werden aufgezeichnet. (Zugriff über StudOn)
     + Folien finden sich im StudOn nach der Vorlesung
     + Skript im StudOn
