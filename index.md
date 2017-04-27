@@ -39,6 +39,7 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + Aufgaben werden in 4er-Gruppen abgegeben, nicht notwendigerweise in der gleichen Übung. Abgabe via EST.
     + Anmeldung über EST bis Samstag 23:59
     + Übungsbeginn in der zweiten Woche
+    + Kofferklausur
 
 ---
 
