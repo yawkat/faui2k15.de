@@ -25,7 +25,7 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + Programmieraufgaben: Einzelabgabe über EST bis Dienstags 10:15
     + Klausur: 90 Minuten
 - [ThProg](https://www8.cs.fau.de/ss17:thprog)
-    + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736) ab **18:00 Windhundverfahren!**
+    + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736) ab Montag, 18:00 Windhundverfahren!
     + Übungen beginnen in der zweiten Woche.
     + Hausaufgaben geben Bonuspunkte (bis zu 15%). Abgabe in Gruppen von 2 bis 3 Personen (wie GLoIn).
     + [Skript](https://www8.cs.fau.de/_media/ss17:thprog:skript.pdf)
@@ -33,6 +33,12 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1843483&cmdClass=ilobjcoursegui&cmdNode=r4:h3&baseClass=ilRepositoryGUI)
     + Vorerst keine Übungsanmeldung nötig
     + ~50% Übungspunkte für Schein
+- [RK](http://www7.cs.fau.de/en/teaching/rechnerkommunikation-2017s/)
+    + Vorlesungsbeginn 8:30
+    + Schein notwendig für die Klausur
+    + Aufgaben werden in 4er-Gruppen abgegeben, nicht notwendigerweise in der gleichen Übung. Abgabe via EST.
+    + Anmeldung über EST bis Samstag 23:59
+    + Übungsbeginn in der zweiten Woche
 
 ---
 
