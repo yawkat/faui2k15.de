@@ -12,6 +12,10 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
+- Die GLoIn-Einsicht findet am **Mi 3.5. 14:00** beim LS8 (blaues Hochhaus) statt ([Mail](https://s.yawk.at/RRCJ)).
+
+---
+
 [Vorläufiger Stundenplan zu Pflichtvorlesungen im SS17](https://s.yawk.at/Mv11). 
 
 Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümmern. Seminare werden auf den jeweiligen Lehrstuhlseiten beworben - verlasst euch nicht nur auf UnivIS, dort sind nicht alle Seminare richtig eingetragen! Anmeldungen für Seminare haben häufig schon begonnen.
