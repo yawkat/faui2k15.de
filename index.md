@@ -30,7 +30,7 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
 - [ThProg](https://www8.cs.fau.de/ss17:thprog)
     + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736) ab Montag, 18:00 Windhundverfahren!
     + Übungen beginnen in der zweiten Woche.
-    + Hausaufgaben geben Bonuspunkte (bis zu 15%). Abgabe in Gruppen von 2 bis 3 Personen (wie GLoIn).
+    + Hausaufgaben geben Bonuspunkte (bis zu 15%). Abgabe in Gruppen von 2 bis 3 Personen (wie GLoIn). Abgaben sind gruppenübergreifend.
     + [Skript](https://www8.cs.fau.de/_media/ss17:thprog:skript.pdf)
 - IngMathC4
     + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1843483&cmdClass=ilobjcoursegui&cmdNode=r4:h3&baseClass=ilRepositoryGUI)
