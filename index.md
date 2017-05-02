@@ -21,7 +21,7 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
 
 - [AlgoKS](https://www10.cs.fau.de/de/lehre/bySem/2017s/algoks)
     + Vorlesungsbeginn 8:30
-    + [Aufzeichnung](https://video.cs.fau.de/by-lecture/AlgoKS/2017s/)
+    + [Aufzeichnung](https://video.cs.fau.de/by-lecture/AlgoKS/2017s/) (mit Passwort)
     + Schein: Je mindestens 50% der Übungspunkte in Programmier- und Theorieteil müssen erreicht werden
     + Übungen beginnen in der dritten Woche.
     + Theorieaufgaben: Abgabe in 2er-Gruppen, Briefkasten
