@@ -21,16 +21,16 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
 
 - [AlgoKS](https://www10.cs.fau.de/de/lehre/bySem/2017s/algoks)
     + Vorlesungsbeginn 8:30
+    + [Aufzeichnung](https://video.cs.fau.de/by-lecture/AlgoKS/2017s/) (mit Passwort)
     + Schein: Je mindestens 50% der Übungspunkte in Programmier- und Theorieteil müssen erreicht werden
-    + Anmeldung für Theorieübungen bis **Montag, 1. 5. 10:00** im EST (mit Passwort), Anmeldungen für Rechnerübungen nicht verbindlich
     + Übungen beginnen in der dritten Woche.
     + Theorieaufgaben: Abgabe in 2er-Gruppen, Briefkasten
     + Programmieraufgaben: Einzelabgabe über EST bis Dienstags 10:15
     + Klausur: 90 Minuten
 - [ThProg](https://www8.cs.fau.de/ss17:thprog)
-    + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736) ab Montag, 18:00 Windhundverfahren!
-    + Übungen beginnen in der zweiten Woche.
-    + Hausaufgaben geben Bonuspunkte (bis zu 15%). Abgabe in Gruppen von 2 bis 3 Personen (wie GLoIn). Abgaben sind gruppenübergreifend.
+    + [Aufzeichnung](https://www.video.uni-erlangen.de/course/id/547.html)
+    + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736)
+    + Hausaufgaben geben Bonuspunkte (bis zu 15%). Abgabe in Gruppen von 2 bis 3 Personen (wie GLoIn) in den Übungen. Abgaben sind gruppenübergreifend.
     + [Skript](https://www8.cs.fau.de/_media/ss17:thprog:skript.pdf)
 - IngMathC4
     + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1843483&cmdClass=ilobjcoursegui&cmdNode=r4:h3&baseClass=ilRepositoryGUI)
@@ -40,7 +40,6 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + Vorlesungsbeginn 8:30
     + Schein notwendig für die Klausur
     + Aufgaben werden in 4er-Gruppen abgegeben, nicht notwendigerweise in der gleichen Übung. Abgabe via EST.
-    + Anmeldung über EST bis Samstag 23:59
     + Übungsbeginn in der zweiten Woche
     + Kofferklausur
 
