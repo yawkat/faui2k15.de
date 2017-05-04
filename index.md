@@ -35,7 +35,7 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
 - [RK](http://www7.cs.fau.de/en/teaching/rechnerkommunikation-2017s/)
     + Vorlesungsbeginn 8:30
     + Schein notwendig für die Klausur
-    + Aufgaben werden in 4er-Gruppen abgegeben, nicht notwendigerweise in der gleichen Übung. Abgabe via EST.
+    + Aufgaben werden in 4er-Gruppen abgegeben, nicht notwendigerweise in der gleichen Übung. Abgabe via EST bis Montags 7:00.
     + Übungsbeginn in der zweiten Woche
     + Kofferklausur
 
