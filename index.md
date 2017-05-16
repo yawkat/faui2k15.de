@@ -11,6 +11,10 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
+Klausureinsicht C3 **24. 5. 12:30-13:30** ([Mail](https://s.yawk.at/cucT))
+
+---
+
 [Vorläufiger Stundenplan zu Pflichtvorlesungen im SS17](https://s.yawk.at/Mv11). 
 
 Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümmern. Seminare werden auf den jeweiligen Lehrstuhlseiten beworben - verlasst euch nicht nur auf UnivIS, dort sind nicht alle Seminare richtig eingetragen! Anmeldungen für Seminare haben häufig schon begonnen.
