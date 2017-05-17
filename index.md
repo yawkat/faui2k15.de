@@ -11,7 +11,8 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
-Klausureinsicht C3 **24. 5. 12:30-13:30** ([Mail](https://s.yawk.at/cucT))
+- Klausureinsicht C3 **24. 5. 12:30-13:30** ([Mail](https://s.yawk.at/cucT))
+- Klausureinsicht BFS **26. 5. 10:00** ([Mail](https://fsi.cs.fau.de/forum/post/151246))
 
 ---
 
