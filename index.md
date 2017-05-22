@@ -37,7 +37,7 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1843483&cmdClass=ilobjcoursegui&cmdNode=r4:h3&baseClass=ilRepositoryGUI)
     + Vorerst keine Übungsanmeldung nötig
     + ~50% Übungspunkte für Schein
-- [RK](http://www7.cs.fau.de/en/teaching/rechnerkommunikation-2017s/)
+- [RK](http://www7.cs.fau.de/de/teaching/rechnerkommunikation-2017s/)
     + Vorlesungsbeginn 8:30
     + Schein notwendig für die Klausur
     + Aufgaben werden in 4er-Gruppen abgegeben, nicht notwendigerweise in der gleichen Übung. Abgabe via EST bis Montags 7:00.
