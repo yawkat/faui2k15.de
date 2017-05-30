@@ -23,7 +23,6 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + Theorieaufgaben: Abgabe in 2er-Gruppen, Briefkasten
     + Programmieraufgaben: Einzelabgabe über EST bis Dienstags 10:15
     + Klausur: 90 Minuten
-    + Keine Übungen in der Woche 5.6. - 9.6.
 - [ThProg](https://www8.cs.fau.de/ss17:thprog)
     + [Aufzeichnung](https://www.video.uni-erlangen.de/course/id/547.html)
     + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736)
