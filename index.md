@@ -23,11 +23,13 @@ Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümme
     + Theorieaufgaben: Abgabe in 2er-Gruppen, Briefkasten
     + Programmieraufgaben: Einzelabgabe über EST bis Dienstags 10:15
     + Klausur: 90 Minuten
+    + Keine Übungen in der Woche 5.6. - 9.6.
 - [ThProg](https://www8.cs.fau.de/ss17:thprog)
     + [Aufzeichnung](https://www.video.uni-erlangen.de/course/id/547.html)
     + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736)
     + Hausaufgaben geben Bonuspunkte (bis zu 15%). Abgabe in Gruppen von 2 bis 3 Personen (wie GLoIn) in den Übungen. Abgaben sind gruppenübergreifend.
     + [Skript](https://www8.cs.fau.de/_media/ss17:thprog:skript.pdf)
+    + Keine Übungen in der Woche 5.6. - 9.6.
 - IngMathC4
     + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1843483&cmdClass=ilobjcoursegui&cmdNode=r4:h3&baseClass=ilRepositoryGUI)
     + Vorerst keine Übungsanmeldung nötig
