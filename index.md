@@ -11,6 +11,8 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
+**Die Prüfungsanmeldung hat begonnen.**
+
 - [AlgoKS](https://www10.cs.fau.de/de/lehre/bySem/2017s/algoks)
     + Vorlesungsbeginn 8:30
     + [Aufzeichnung](https://video.cs.fau.de/by-lecture/AlgoKS/2017s/) (mit Passwort)
