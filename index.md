@@ -11,6 +11,10 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
+**Die SoSy-Einsicht ist am 19.06.** von 10:00–11:00 Uhr in Raum 01.252-128 ([Website](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/index.html)).
+
+---
+
 [Vorläufiger Stundenplan zu Pflichtvorlesungen im SS17](https://s.yawk.at/Mv11). 
 
 Wichtig: Ab dem 4. Semester solltet ihr euch um Seminare und Vertiefungen kümmern. Seminare werden auf den jeweiligen Lehrstuhlseiten beworben - verlasst euch nicht nur auf UnivIS, dort sind nicht alle Seminare richtig eingetragen! Anmeldungen für Seminare haben häufig schon begonnen.
