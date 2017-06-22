@@ -11,10 +11,6 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
-**Die SoSy-Einsicht ist am 19.06.** von 10:00–11:00 Uhr in Raum 01.252-128 ([Website](http://www11.informatik.uni-erlangen.de/Lehre/WS1617/SW-SYS3/index.html)).
-
----
-
 **Die Prüfungsanmeldung hat begonnen.**
 
 - [AlgoKS](https://www10.cs.fau.de/de/lehre/bySem/2017s/algoks)
