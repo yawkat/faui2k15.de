@@ -33,7 +33,7 @@ If you wish to add content to this site, feel free to [make a pull request](http
     + [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1843483&cmdClass=ilobjcoursegui&cmdNode=r4:h3&baseClass=ilRepositoryGUI)
     + Vorerst keine Übungsanmeldung nötig
     + ~50% Übungspunkte für Schein
-    + Klausur am Do. 10. 8.
+    + Klausur am Do. 10. 8. 14:00
     + Formelsammlung und ein beidseitig handbeschriebenes DIN-A4-Blatt zur Klausur erlaubt
     + [Starthilfe Stochastik (Christoph, Hackel)](https://www.amazon.de/dp/3519003414)
 - [RK](http://www7.cs.fau.de/de/teaching/rechnerkommunikation-2017s/)
