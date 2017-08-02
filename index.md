@@ -11,10 +11,6 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
-**Rückmeldung bis 10. 7.**
-
----
-
 - [AlgoKS](https://www10.cs.fau.de/de/lehre/bySem/2017s/algoks)
     + Vorlesungsbeginn 8:30
     + [Aufzeichnung](https://video.cs.fau.de/by-lecture/AlgoKS/2017s/) (mit Passwort)
@@ -22,7 +18,7 @@ If you wish to add content to this site, feel free to [make a pull request](http
     + Wöchentlich abwechselnd Rechner- und Theorieübungen
     + Theorieaufgaben: Abgabe in 2er-Gruppen, Briefkasten
     + Programmieraufgaben: Einzelabgabe über EST bis Dienstags 10:15
-    + Klausur (90 Minuten) am Do. 3. 8. 8:00. Anfang des Alphabets in der Tentoria, Ende im H8. Keine Hilfsmittel. **Bleistift, Kugelschreiber und Lineal mitbringen.**
+    + Klausur (90 Minuten) am Do. 3. 8. 8:00. A-E im H8, F-Z in der Tentoria. Keine Hilfsmittel.
 - [ThProg](https://www8.cs.fau.de/ss17:thprog)
     + [Aufzeichnung](https://www.video.uni-erlangen.de/course/id/547.html)
     + Übungsanmeldung [im Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20926736)
