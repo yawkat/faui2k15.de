@@ -14,7 +14,7 @@ If you wish to add content to this site, feel free to [make a pull request](http
 - [ThProg](https://www8.cs.fau.de/ss17:thprog)
     + [Aufzeichnung](https://www.video.uni-erlangen.de/course/id/547.html)
     + [Skript](https://www8.cs.fau.de/_media/ss17:thprog:skript.pdf)
-    + Klausur am **Fr. 13. 10.**
+    + Klausur am **Fr. 13. 10. 16:00**
 - [RK](http://www7.cs.fau.de/de/teaching/rechnerkommunikation-2017s/)
     + Klausur am **Fr. 29. 9. 15:00**
     + Kofferklausur
