@@ -12,7 +12,7 @@ If you wish to add content to this site, feel free to [make a pull request](http
 ---
 
 - IDB
-  - [StudOn](https://www.studon.fau.de/studon/ilias.php?ref_id=1948590)
+  - [StudOn](https://www.studon.fau.de/studon/goto.php?target=crs_1948590)
 
 ---
 
