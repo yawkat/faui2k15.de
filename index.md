@@ -19,4 +19,4 @@ If you wish to add content to this site, feel free to [make a pull request](http
   - [StudOn](https://www.studon.fau.de/crs2144604_join.html)
   - Übungen im 2-Wochen-Takt ab der zweiten Woche - bitte Übungsgruppen im StudOn beitreten!
   - [Modulübersicht (SSC)](http://www.informatik.studium.uni-erlangen.de/studierende/nfaecher/nf-physik.pdf)
-  - elektronische Klausur *geplant* am Mi 11. 7., aber noch nicht definitiv
+  - elektronische Klausur am Mi 11. 7., aber noch nicht definitiv
