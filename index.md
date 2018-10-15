@@ -11,12 +11,12 @@ If you wish to add content to this site, feel free to [make a pull request](http
 
 ---
 
-- [VS](https://www4.cs.fau.de/Lehre/SS18/V_VS/Vorlesung/)
-  - Übungen ab 18.4., Tafelübung Mi 10:15-11:45, Rechnerübung Mi 14:00-16:00
-    (in [Waffel](https://waffel.informatik.uni-erlangen.de/signup/?univisid=20545691) anmelden)
+Regelstudienzeit vorbei, schon fertig?
 
-- Nebenfach Physik
-  - [StudOn](https://www.studon.fau.de/crs2144604_join.html)
-  - Übungen im 2-Wochen-Takt ab der zweiten Woche - bitte Übungsgruppen im StudOn beitreten!
-  - [Modulübersicht (SSC)](http://www.informatik.studium.uni-erlangen.de/studierende/nfaecher/nf-physik.pdf)
-  - elektronische Klausur am Mi 11. 7.
+---
+
+- [VM](https://www4.cs.fau.de/Lehre/WS18/V_VM/)
+  - Übungen fangen Mittwoch an
+  - **Per Waffel anmelden**
+  - EÜ nach Vereinbarung, für EÜ Aufgaben obligatorisch in Zweiergruppen
+  - Für gedruckte Foliensätze *vorher* fragen!
