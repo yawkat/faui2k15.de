@@ -20,3 +20,18 @@ Regelstudienzeit vorbei, schon fertig?
   - **Per Waffel anmelden**
   - EÜ nach Vereinbarung, für EÜ Aufgaben obligatorisch in Zweiergruppen
   - Für gedruckte Foliensätze *vorher* fragen!
+- AppITSec
+  - [Vorlesung](https://www1.cs.fau.de/courses/show/2018w/41620902)
+  - [Übung](https://www1.cs.fau.de/courses/show/2018w/41192746)
+  - Übungen ab 7.11.
+  - Übungsaufgaben als Vorbereitung eine Woche vorher
+  - Übungen freiwillig - 5 ECTS allein für Klausur (90 Minuten)
+  - 7.11. Lockpicking-Vortrag und -Übung!
+- [GNSS](https://www.like.tf.fau.de/lehre/lehrveranstaltungen/wintersemester/)
+  - StudOn
+  - Buch ausleihbar am LIKE für 20€ (*nicht* elektronisch)
+  - Skript nach Anmeldung
+  - Anmeldung via mein campus
+  - RÜ in Tennenlohe am LIKE (Raum P1)
+  - 75% der RÜ und 75% der HA für Notenbonus für Klausur
+  - Klausur mit TR, Formelsammlung bei der Klausur gegeben
