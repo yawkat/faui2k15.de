@@ -16,10 +16,15 @@ Regelstudienzeit vorbei, schon fertig?
 ---
 
 - [VM](https://www4.cs.fau.de/Lehre/WS18/V_VM/)
-  - Übungen fangen Mittwoch an
+  - Übungen ab sofort
   - **Per Waffel anmelden**
-  - EÜ nach Vereinbarung, für EÜ Aufgaben obligatorisch in Zweiergruppen
+  - EÜ-Abgabe nach Vereinbarung, für EÜ Aufgaben obligatorisch in Zweiergruppen
   - Für gedruckte Foliensätze *vorher* fragen!
+- [BS](https://www4.cs.fau.de/Lehre/WS18/V_BS/)
+  - Übungen ab sofort
+  - **Per Waffel anmelden**
+  - EÜ-Abgabe in der RÜ
+  - Zweiergruppen
 - AppITSec
   - [Vorlesung](https://www1.cs.fau.de/courses/show/2018w/41620902)
   - [Übung](https://www1.cs.fau.de/courses/show/2018w/41192746)
