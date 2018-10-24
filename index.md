@@ -33,7 +33,7 @@ Regelstudienzeit vorbei, schon fertig?
   - Übungen freiwillig - 5 ECTS allein für Klausur (90 Minuten)
   - 7.11. Lockpicking-Vortrag und -Übung!
 - [GNSS](https://www.like.tf.fau.de/lehre/lehrveranstaltungen/wintersemester/)
-  - StudOn
+  - [StudOn](https://www.studon.fau.de/studon/goto.php?target=crs_1354665)
   - Buch ausleihbar am LIKE für 20€ (*nicht* elektronisch)
   - Skript nach Anmeldung
   - Anmeldung via mein campus
