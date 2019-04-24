@@ -23,3 +23,9 @@ Bachelor-Regelstudienzeit vorbei, schon fertig?
   - Keine Anwesenheitspflicht
 - [QM/TP-3](https://www.studon.fau.de/crs2533037.html)
 - [PassCrypt](https://www.studon.fau.de/studon/goto.php?target=crs_2501357)
+  - Lecture on Wednesdays E2.11
+  - Exercises on Fridays (only on select weeks, 4 times) H17
+  - Programming in teams of 2-3, Papers individually
+  - Projects / Papers will be assigned on 2019-06-28
+  - Presentation / Exam date: 2019-10-02
+  - Grading: 50% Presentation of the paper 50% presentation of the programming task 
