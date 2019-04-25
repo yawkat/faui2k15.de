@@ -22,6 +22,8 @@ Bachelor-Regelstudienzeit vorbei, schon fertig?
   - 11 von 12 Blättern müssen mit >50% bestanden werden, keine Auswirkung auf die Note
   - Keine Anwesenheitspflicht
 - [QM/TP-3](https://www.studon.fau.de/crs2533037.html)
+  - 50% der Hausaufgaben und Vorstellen von 3 Aufgaben (Haus- oder Präsensaufgaben) bringen je 0.3 Notenbonus
+  - Übungsbetrieb ab 26.4.
 - [PassCrypt](https://www.studon.fau.de/studon/goto.php?target=crs_2501357)
   - Lecture on Wednesdays E2.11
   - Exercises on Fridays (only on select weeks, 4 times) H17
