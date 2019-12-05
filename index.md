@@ -16,6 +16,7 @@ Bachelor-Regelstudienzeit vorbei, schon fertig?
 ---
 
 - [UE1](https://www2.cs.fau.de/teaching/WS2019/UE1/index.html)
-- [EP6](https://www.studon.fau.de/crs2692123.html)
+- [EP5](https://www.studon.fau.de/crs2692123.html)
+  - beidseitig beschrieben A4, *kein* PDB
 - [FRE2](https://www.studon.fau.de/crs2051143.html)
 - [FoundPriv](https://www.studon.fau.de/crs2677629.html)
