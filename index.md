@@ -15,8 +15,9 @@ Bachelor-Regelstudienzeit vorbei, schon fertig?
 
 ---
 
-- [UE1](https://www2.cs.fau.de/teaching/WS2019/UE1/index.html)
-- [EP5](https://www.studon.fau.de/crs2692123.html)
-  - beidseitig beschrieben A4, *kein* PDB
-- [FRE2](https://www.studon.fau.de/crs2051143.html)
-- [FoundPriv](https://www.studon.fau.de/crs2677629.html)
+- [UE2](https://www.studon.fau.de/studon/goto.php?target=crs_2850280)
+- [PQCrypto](https://www.studon.fau.de/studon/goto.php?target=crs_2861662)
+- [PPCryptoCur](https://www.studon.fau.de/studon/goto.php?target=crs_2861661)
+- [FoundCrypt](https://www.studon.fau.de/studon/goto.php?target=crs_2861663)
+- [SEH](https://www.studon.fau.de/studon/goto.php?target=crs_2862387)
+- [SatKom](https://www.studon.fau.de/studon/goto.php?target=crs_117969)
