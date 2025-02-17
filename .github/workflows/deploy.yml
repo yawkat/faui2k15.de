@@ -1,0 +1,24 @@
+on: ['push']
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    name: Deploy to Cloudflare Pages
+    environment: "cloudflare pages"
+    steps:
+      - name: Install dependencies
+        run: sudo apt install markdown
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Build markdown
+        run: ./build.sh
+      - name: Copy files
+        run: mkdir .dist && cp index.html countdown.html .dist/
+      - name: Publish
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy .dist --project-name=faui2k15-de
